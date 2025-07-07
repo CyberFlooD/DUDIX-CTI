@@ -1,5 +1,9 @@
 # 🛰️ DUDIX CTI – Newsletter Cyber Threat Intelligence
 
+<p align="center">
+<img src="./files/dudix-cti.webp"/>
+<p align="center">
+
 ![Newsletter Weekly](https://img.shields.io/badge/newsletter-weekly-blueviolet?style=for-the-badge&logo=rss)
 ![Powered by OpenCTI](https://img.shields.io/badge/powered%20by-OpenCTI-0052cc?style=for-the-badge&logo=apachekafka)
 ![Made with ❤️ by Dudix](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Dudix-darkred?style=for-the-badge)
